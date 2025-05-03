@@ -1,0 +1,27 @@
+<div class="full_col frame">
+    <!-- Acá se selecciona la opcion y ademas obtenemos el nombre del segmento -->
+    <select size="1" style="width: 280px;" id="group_type" name="group_type" onchange="benchmark2(28,this.value,0);">
+        <option value="" selected="">Todos</option>
+        <option value="0">Desktop</option>
+        <option value="1">Notebook</option>
+        <option value="2">Smartphone / Tablet</option>
+        <option value="3">Server</option>
+        <option value="4">Enterprise / Embedded</option>
+    </select>
+    <div id="benchmark_data" style="margin-top: 30px;">
+        <table class="data" style="line-height: 22px; margin-top: 0px;">
+            <tbody>
+                <tr style="vertical-align: middle;">
+                    <!-- Acá se encuentra el nombre del procesador -->
+                    <td class="dt_cpu_row">
+                        <a class="clean" style="cursor: pointer;" href="/es/cpu-intel_core_ultra_9_285k"><b>Intel Core Ultra 9 285K</b></a>
+                    </td>
+                    <!-- Acá se encuentra el puntaje -->
+                    <td style="padding-top: 3px;">
+                        <div class="benchmarkbar" style="width: 82%;">145</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
