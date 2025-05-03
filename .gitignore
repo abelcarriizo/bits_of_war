@@ -2,3 +2,5 @@
 .vscode/
 venv/
 .env
+test/
+notas.txt
