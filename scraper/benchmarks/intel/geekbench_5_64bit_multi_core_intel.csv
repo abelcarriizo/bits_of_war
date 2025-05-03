@@ -1,0 +1,141 @@
+nombre_procesador,segmento,benchmark
+Intel Core Ultra 9 285K,Desktop,145
+Intel Core i9-14900KS,Desktop,142
+Intel Core Ultra 7 265KF,Desktop,141
+Intel Core Ultra 7 265K,Desktop,141
+Intel Core i9-14900KF,Desktop,139
+Intel Core i9-14900K,Desktop,139
+Intel Core i9-13900KS,Desktop,137
+Intel Core Ultra 7 265F,Desktop,136
+Intel Core Ultra 7 265,Desktop,136
+Intel Core Ultra 5 245KF,Desktop,135
+Intel Core Ultra 5 245K,Desktop,134
+Intel Core i9-13900KF,Desktop,132
+Intel Core i9-13900K,Desktop,132
+Intel Core i7-14700KF,Desktop,131
+Intel Core i7-14700K,Desktop,131
+Intel Core i7-13700KF,Desktop,126
+Intel Core i7-13700K,Desktop,126
+Intel Core i9-12900K,Desktop,126
+Intel Core i5-14600KF,Desktop,124
+Intel Core i5-14600K,Desktop,124
+Intel Core i9-12900KF,Desktop,124
+Intel Xeon E5-2680 v4,Desktop,124
+Intel Core i9-13900F,Desktop,121
+Intel Core i9-13900,Desktop,121
+Intel Core i7-13700F,Desktop,118
+Intel Core i7-13700,Desktop,118
+Intel Core i5-13600KF,Desktop,116
+Intel Core i5-13600K,Desktop,116
+Intel Core i7-12700KF,Desktop,114
+Intel Core i7-12700K,Desktop,114
+Intel Core i5-13500,Desktop,112
+Intel Core i7-13700T,Desktop,110
+Intel Core i7-12700F,Desktop,107
+Intel Core i7-12700,Desktop,107
+Intel Core i5-13400E,Desktop,106
+Intel Core i5-13400F,Desktop,106
+Intel Core i5-13400,Desktop,106
+Intel Core i5-12600KF,Desktop,105
+Intel Core i5-12600K,Desktop,105
+Intel Core i3-13100F,Desktop,103
+Intel Core i3-13100,Desktop,103
+Intel Core i5-12400F,Desktop,102
+Intel Core i5-12400,Desktop,102
+Intel Core i5-12500T,Desktop,101
+Intel Core i5-12500,Desktop,96
+Intel Core i7-11700KF,Desktop,92
+Intel Core i7-11700K,Desktop,92
+Intel Core i5-11600KF,Desktop,91
+Intel Core i5-11600K,Desktop,91
+Intel Core i7-11700F,Desktop,90
+Intel Core i7-11700,Desktop,90
+Intel Processor 300,Desktop,89
+Intel Core i5-11400F,Desktop,87
+Intel Core i3-12100F,Desktop,86
+Intel Core i3-12100,Desktop,86
+Intel Core i5-11400,Desktop,85
+Intel Core i9-10900KF,Desktop,80
+Intel Core i9-10900K,Desktop,80
+Intel Core i9-9900KS,Desktop,77
+Intel Core i9-9900KF,Desktop,77
+Intel Core i9-9900K,Desktop,77
+Intel Core i7-10700KF,Desktop,74
+Intel Core i7-10700K,Desktop,74
+Intel Core i7-9700KF,Desktop,74
+Intel Core i7-9700K,Desktop,74
+Intel Core i5-9600KF,Desktop,73
+Intel Core i5-9600K,Desktop,73
+Intel Core i5-10600KF,Desktop,72
+Intel Core i5-10600K,Desktop,72
+Intel Core i7-8700K,Desktop,72
+Intel Core i7-5775R,Desktop,71
+Intel Core i9-10920X,Desktop,70
+Intel Core i7-8700B,Desktop,69
+Intel Core i5-8600K,Desktop,69
+Intel Core i7-8700,Desktop,69
+Intel Core i7-5775C,Desktop,69
+Intel Core i5-10400F,Desktop,68
+Intel Core i5-10400,Desktop,68
+Intel Core i7-9700F,Desktop,68
+Intel Core i7-9700,Desktop,68
+Intel Core i3-10105F,Desktop,66
+Intel Core i9-14900HX,Notebook,129
+Intel Core Ultra 9 288V,Notebook,126
+Intel Core Ultra 9 285H,Notebook,124
+Intel Core Ultra 7 266V,Notebook,124
+Intel Core Ultra 7 268V,Notebook,124
+Intel Core i7-14700HX,Notebook,122
+Intel Core i9-13950HX,Notebook,122
+Intel Core Ultra 7 256V,Notebook,120
+Intel Core Ultra 7 258V,Notebook,120
+Intel Core Ultra 5 236V,Notebook,118
+Intel Core Ultra 5 238V,Notebook,118
+Intel Core i9-13980HX,Notebook,117
+Intel Core i7-14650HX,Notebook,116
+Intel Core i9-13900H,Notebook,115
+Intel Core i9-13900HK,Notebook,115
+Intel Core i9-13900HX,Notebook,115
+Intel Core i7-13700HX,Notebook,114
+Intel Core Ultra 5 226V,Notebook,113
+Intel Core Ultra 5 228V,Notebook,113
+Intel Core i7-13620H,Notebook,112
+Intel Core i7-13850HX,Notebook,112
+Intel Core i5-14500HX,Notebook,108
+Intel Core Ultra 9 185H,Notebook,108
+Intel Core Ultra 7 155H,Notebook,105
+Intel Core i7-13700H,Notebook,105
+Intel Core i5-13500HX,Notebook,104
+Intel Core i7-12650H,Notebook,104
+Intel Core i5-13500H,Notebook,103
+Intel Core i5-13420H,Notebook,102
+Intel Core i5-12500H,Notebook,102
+Intel Core Ultra 5 135H,Notebook,100
+Intel Core Ultra 5 125H,Notebook,100
+Intel Core i5-1240P,Notebook,98
+Intel Core i5-12450HX,Notebook,96
+Intel Core i5-12450H,Notebook,96
+Intel Core i7-12700HL,Notebook,95
+Intel Core i7-12700H,Notebook,95
+Intel Core Ultra 5 125U,Notebook,92
+Intel Processor U300,Notebook,92
+Intel Core i7-1355U,Notebook,91
+Intel Core i7-1370P,Notebook,91
+Intel Core i5-1245U,Notebook,89
+Intel Core i7-11800H,Notebook,87
+Intel Core i7-1280P,Notebook,77
+Intel Core i7-1260P,Notebook,73
+Intel Core i5-1135G7,Notebook,73
+Intel Core i9-9980HK,Notebook,71
+Intel Core i7-1185G7,Notebook,70
+Intel Core i9-9880H,Notebook,70
+Intel Core i7-8809G,Notebook,67
+Intel Core i7-9750HF,Notebook,64
+Intel Core i7-9750H,Notebook,64
+Intel Core i7-1065G7,Notebook,64
+Intel Processor N97,Notebook,63
+Intel Pentium Gold 7505,Notebook,63
+Intel Core i7-8550U,Notebook,61
+Intel Processor N100,Notebook,59
+Intel Processor N95,Notebook,58
+Intel Core i5-8259U,Notebook,58
