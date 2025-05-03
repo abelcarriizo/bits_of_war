@@ -1,0 +1,122 @@
+nombre_procesador,segmento,benchmark
+AMD Ryzen 9 9950X3D,Desktop,139
+AMD Ryzen 9 9950X,Desktop,139
+AMD Ryzen 9 9900X3D,Desktop,137
+AMD Ryzen 9 9900X,Desktop,137
+AMD Ryzen 7 9800X3D,Desktop,135
+AMD Ryzen 7 9700X,Desktop,134
+AMD Ryzen 5 9600X,Desktop,133
+AMD Ryzen 9 7950X,Desktop,125
+AMD Ryzen 9 7900X3D,Desktop,122
+AMD Ryzen 9 7950X3D,Desktop,121
+AMD Ryzen 9 7900X,Desktop,121
+AMD Ryzen 5 9600X3D,Desktop,120
+AMD Ryzen Threadripper 7970X,Desktop,119
+AMD Ryzen 7 7700X,Desktop,119
+AMD Ryzen 9 7900,Desktop,116
+AMD Ryzen Threadripper 7980X,Desktop,115
+AMD Ryzen 5 7600X,Desktop,115
+AMD Ryzen 7 7800X3D,Desktop,109
+AMD Ryzen 7 7700,Desktop,108
+AMD Ryzen 5 8400F,Desktop,104
+AMD Ryzen 7 8700F,Desktop,104
+AMD Ryzen 7 PRO 8700G,Desktop,104
+AMD Ryzen 7 8700G,Desktop,104
+AMD Ryzen 5 7600X3D,Desktop,102
+AMD Ryzen 5 PRO 8600G,Desktop,101
+AMD Ryzen 5 8500G,Desktop,101
+AMD Ryzen 5 8600G,Desktop,101
+AMD Ryzen 9 5950X,Desktop,99
+AMD Ryzen 9 5900XT,Desktop,98
+AMD Ryzen 5 7500F,Desktop,98
+AMD Ryzen 9 5900X,Desktop,98
+AMD Ryzen 7 5800XT,Desktop,97
+AMD Ryzen 3 PRO 8300G,Desktop,96
+AMD Ryzen 3 8300G,Desktop,96
+AMD Ryzen 5 PRO 7645,Desktop,95
+AMD Ryzen 5 7600,Desktop,95
+AMD Ryzen 7 5800X3D,Desktop,95
+AMD Ryzen 7 5800X,Desktop,95
+AMD Ryzen 5 5600X,Desktop,94
+AMD Ryzen 7 5700X,Desktop,93
+AMD Ryzen 5 7400F,Desktop,92
+AMD Ryzen Threadripper PRO 5965WX,Desktop,91
+AMD Ryzen 5 5600T,Desktop,88
+AMD Ryzen 7 5700,Desktop,88
+AMD Ryzen 7 PRO 5750G,Desktop,88
+AMD Ryzen 7 5700G,Desktop,88
+AMD Ryzen 5 5500GT,Desktop,87
+AMD Ryzen 7 5700X3D,Desktop,87
+AMD Ryzen 5 5600,Desktop,85
+AMD Ryzen 5 5600G,Desktop,85
+AMD Ryzen 5 5500,Desktop,82
+AMD Ryzen 7 3800XT,Desktop,81
+AMD Ryzen Threadripper 3960X,Desktop,81
+AMD Ryzen 9 3900XT,Desktop,78
+AMD Ryzen 3 3300X,Desktop,78
+AMD Ryzen 9 3900X,Desktop,78
+AMD Ryzen 3 3100,Desktop,77
+AMD Ryzen 5 3600XT,Desktop,76
+AMD Ryzen 7 3800X,Desktop,76
+AMD Ryzen 7 3700X,Desktop,76
+AMD Ryzen Threadripper PRO 3975WX,Desktop,75
+AMD Ryzen 7 PRO 4750G,Desktop,75
+AMD Ryzen 9 3900,Desktop,75
+AMD Ryzen 5 3600,Desktop,75
+AMD Ryzen Threadripper 3990X,Desktop,74
+AMD Ryzen 9 3950X,Desktop,74
+AMD Ryzen 5 3600X,Desktop,69
+AMD Ryzen AI 9 HX PRO 375,Notebook,124
+AMD Ryzen AI 9 HX PRO 370,Notebook,124
+AMD Ryzen AI 9 MAX 390,Notebook,124
+AMD Ryzen AI 9 HX 375,Notebook,124
+AMD Ryzen AI 9 HX 370,Notebook,124
+AMD Ryzen AI 9 365,Notebook,121
+AMD Ryzen Z2 Extreme,Notebook,118
+AMD Ryzen AI 7 PRO 360,Notebook,118
+AMD Ryzen 9 7945HX,Notebook,114
+AMD Ryzen 7 7745HX,Notebook,107
+AMD Ryzen 9 8945H,Notebook,106
+AMD Ryzen 9 8945HS,Notebook,106
+AMD Ryzen 7 PRO 8840HS,Notebook,102
+AMD Ryzen 7 PRO 8845HS,Notebook,102
+AMD Ryzen 7 8840H,Notebook,102
+AMD Ryzen 7 8840U,Notebook,102
+AMD Ryzen 7 8840HS,Notebook,102
+AMD Ryzen 7 8845HS,Notebook,102
+AMD Ryzen 7 PRO 7840HS,Notebook,102
+AMD Ryzen 7 7840HS,Notebook,102
+AMD Ryzen Z2,Notebook,100
+AMD Ryzen 7 PRO 8840U,Notebook,100
+AMD Ryzen 5 PRO 8645HS,Notebook,99
+AMD Ryzen 5 8640HS,Notebook,99
+AMD Ryzen 5 8645HS,Notebook,99
+AMD Ryzen 5 PRO 7640HS,Notebook,99
+AMD Ryzen 5 7640HS,Notebook,99
+AMD Ryzen Z1 Extreme,Notebook,94
+AMD Ryzen 7 7840U,Notebook,94
+AMD Ryzen 7 7735HS,Notebook,93
+AMD Ryzen 7 7435HS,Notebook,92
+AMD Ryzen 9 6900HX,Notebook,92
+AMD Ryzen 7 5800H,Notebook,87
+AMD Ryzen 9 5900HX,Notebook,86
+AMD Ryzen 5 PRO 7530U,Notebook,84
+AMD Ryzen 5 7530U,Notebook,84
+AMD Ryzen 7 6800U,Notebook,83
+AMD Ryzen 7 PRO 7730U,Notebook,82
+AMD Ryzen 7 7730U,Notebook,82
+AMD Ryzen 7 PRO 6850U,Notebook,81
+AMD Ryzen 5 5625U,Notebook,79
+AMD Ryzen 7 PRO 6850H,Notebook,78
+AMD Ryzen 5 5600HS,Notebook,78
+AMD Ryzen 5 5600H,Notebook,78
+AMD Ryzen 7 5700U,Notebook,74
+AMD Ryzen 7 4800HS,Notebook,72
+AMD Ryzen 7 4800H,Notebook,72
+AMD Ryzen 5 4600H,Notebook,71
+AMD Ryzen 5 PRO 5650U,Notebook,70
+AMD Ryzen 7 4700U,Notebook,68
+AMD Ryzen 5 4600HS,Notebook,67
+AMD Ryzen 5 5500U,Notebook,66
+AMD Ryzen 7 PRO 4750U,Notebook,65
+AMD Ryzen 5 7520U,Notebook,60
